@@ -1,0 +1,14 @@
+{
+  "name": "npm-script-template",
+  "version": "1.0.0",
+  "description": "npm script template package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "tsuyoshi_cho <Tsuyoshi.CHO+npm@Gmail.com>",
+  "license": "ISC"
+}
